@@ -1,0 +1,49 @@
+[Logging started at 08/17/2011 01:36:31 PM]
+Loading state information...Successful
+Loading county information...Successful
+Loading zip code information...Successful
+Loading abbreviations...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/25025.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/26163.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/36061.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/42003.MAP"...Successful
+Opening Network Interface...Successful
+Starting UDP Server...Successful
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.109  from 2011-08-17 13:38:38 / Wed Aug 17 13:39:37 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.109 @192.168.1.183  from 2011-08-17 13:38:39 / Wed Aug 17 13:39:38 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.109 @192.168.1.183  from 2011-08-17 13:38:49 / Wed Aug 17 13:39:56 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle on fire!@192.168.1.74  from 2011-08-17 13:41:04 / Wed Aug 17 13:43:34 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle on fire!@192.168.1.74 @192.168.2.2  from 2011-08-17 13:41:04 / Wed Aug 17 13:43:34 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle on fire!@192.168.1.74  from 2011-08-17 13:41:18 / Wed Aug 17 13:43:54 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle on fire!@192.168.1.74  from 2011-08-17 13:41:37 / Wed Aug 17 13:44:24 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle on fire!@192.168.1.105  from 2011-08-17 13:42:33 / Wed Aug 17 13:45:55 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle on fire!@192.168.1.105 @192.168.2.2  from 2011-08-17 13:42:33 / Wed Aug 17 13:45:55 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle out of control!@192.168.1.128  from 2011-08-17 13:43:37 / Wed Aug 17 13:47:37 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle out of control!@192.168.1.128 @192.168.2.2  from 2011-08-17 13:43:38 / Wed Aug 17 13:47:38 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle out of control!@192.168.1.128  from 2011-08-17 13:44:08 / Wed Aug 17 13:48:26 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle out of control!@192.168.1.128  from 2011-08-17 13:44:18 / Wed Aug 17 13:48:41 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle out of control!@192.168.1.121  from 2011-08-17 13:46:21 / Wed Aug 17 13:51:56 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle out of control!@192.168.1.121 @192.168.2.2  from 2011-08-17 13:46:22 / Wed Aug 17 13:51:57 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle out of control!@192.168.1.121 @192.168.1.23  from 2011-08-17 13:46:53 / Wed Aug 17 13:52:47 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle out of control!@192.168.1.121 @192.168.1.23  from 2011-08-17 13:47:02 / Wed Aug 17 13:53:01 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle out of control!@192.168.1.3  from 2011-08-17 13:47:40 / Wed Aug 17 13:54:04 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle out of control!@192.168.1.3 @192.168.2.2  from 2011-08-17 13:47:41 / Wed Aug 17 13:54:05 2011
+]

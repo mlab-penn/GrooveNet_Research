@@ -1,0 +1,67 @@
+[Logging started at 08/17/2011 03:26:28 PM]
+Loading state information...Successful
+Loading county information...Successful
+Loading zip code information...Successful
+Loading abbreviations...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/25025.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/26163.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/36061.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/42003.MAP"...Successful
+Opening Network Interface...Successful
+Starting UDP Server...Successful
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.194  from 2011-08-17 15:29:50 / Wed Aug 17 15:30:26 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.194 @192.168.2.2  from 2011-08-17 15:29:50 / Wed Aug 17 15:30:27 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.40  from 2011-08-17 15:30:51 / Wed Aug 17 15:32:03 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.40 @192.168.2.2  from 2011-08-17 15:30:51 / Wed Aug 17 15:32:04 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.40 @192.168.2.2 @192.168.1.183  from 2011-08-17 15:31:05 / Wed Aug 17 15:32:26 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.109  from 2011-08-17 15:31:31 / Wed Aug 17 15:33:09 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.109 @192.168.2.2  from 2011-08-17 15:31:31 / Wed Aug 17 15:33:10 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.109 @192.168.2.2 @192.168.2.3 @192.168.1.56  from 2011-08-17 15:31:32 / Wed Aug 17 15:33:11 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.109 @192.168.2.2 @192.168.2.3 @192.168.1.56 @192.168.1.61  from 2011-08-17 15:31:33 / Wed Aug 17 15:33:14 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.48  from 2011-08-17 15:32:42 / Wed Aug 17 15:35:06 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.48 @192.168.2.2  from 2011-08-17 15:32:43 / Wed Aug 17 15:35:06 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.112  from 2011-08-17 15:34:36 / Wed Aug 17 15:38:15 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.112 @192.168.2.2  from 2011-08-17 15:34:37 / Wed Aug 17 15:38:15 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.65  from 2011-08-17 15:35:48 / Wed Aug 17 15:40:09 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.65 @192.168.2.2  from 2011-08-17 15:35:48 / Wed Aug 17 15:40:10 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.65 @192.168.2.2 @192.168.2.3 @192.168.1.105  from 2011-08-17 15:35:49 / Wed Aug 17 15:40:12 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.65 @192.168.2.2 @192.168.2.3 @192.168.1.105 @192.168.2.4 @192.168.1.41  from 2011-08-17 15:35:50 / Wed Aug 17 15:40:13 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.98 @192.168.1.33  from 2011-08-17 15:36:46 / Wed Aug 17 15:41:44 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.98 @192.168.1.33 @192.168.2.2  from 2011-08-17 15:36:47 / Wed Aug 17 15:41:45 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.98 @192.168.1.33  from 2011-08-17 15:37:06 / Wed Aug 17 15:42:15 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.104  from 2011-08-17 15:37:51 / Wed Aug 17 15:43:32 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.104 @192.168.2.2  from 2011-08-17 15:37:52 / Wed Aug 17 15:43:32 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.104  from 2011-08-17 15:38:11 / Wed Aug 17 15:44:03 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.104  from 2011-08-17 15:38:22 / Wed Aug 17 15:44:22 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.121  from 2011-08-17 15:39:00 / Wed Aug 17 15:45:24 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.121 @192.168.2.2  from 2011-08-17 15:39:00 / Wed Aug 17 15:45:25 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.121  from 2011-08-17 15:39:16 / Wed Aug 17 15:45:49 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.121  from 2011-08-17 15:39:24 / Wed Aug 17 15:46:03 2011
+]

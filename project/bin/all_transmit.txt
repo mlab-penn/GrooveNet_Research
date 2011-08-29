@@ -1,0 +1,87 @@
+[Logging started at 08/17/2011 04:21:44 PM]
+Loading state information...Successful
+Loading county information...Successful
+Loading zip code information...Successful
+Loading abbreviations...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/25025.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/26163.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/36061.MAP"...Successful
+Loading map "/home/steven/Desktop/groovenet/mapdata/42003.MAP"...Successful
+Opening Network Interface...Successful
+Starting UDP Server...Successful
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.194  from 2011-08-17 16:22:59 / Wed Aug 17 16:23:36 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.194 @192.168.2.2  from 2011-08-17 16:22:59 / Wed Aug 17 16:23:37 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.0.79  from 2011-08-17 16:23:52 / Wed Aug 17 16:25:02 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.0.79 @192.168.2.2  from 2011-08-17 16:23:52 / Wed Aug 17 16:25:03 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.0.79 @192.168.2.2 @192.168.2.3 @192.168.1.70  from 2011-08-17 16:23:54 / Wed Aug 17 16:25:06 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.0.79 @192.168.2.2 @192.168.2.3 @192.168.1.70 @192.168.2.4 @192.168.1.140  from 2011-08-17 16:24:23 / Wed Aug 17 16:25:54 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.87  from 2011-08-17 16:24:52 / Wed Aug 17 16:26:43 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.87 @192.168.2.2  from 2011-08-17 16:24:52 / Wed Aug 17 16:26:44 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.87 @192.168.0.136 @192.168.1.109  from 2011-08-17 16:24:53 / Wed Aug 17 16:26:45 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.87 @192.168.0.136 @192.168.1.109 @192.168.1.183  from 2011-08-17 16:24:54 / Wed Aug 17 16:26:46 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.0.117  from 2011-08-17 16:26:03 / Wed Aug 17 16:28:44 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.0.117 @192.168.2.2  from 2011-08-17 16:26:04 / Wed Aug 17 16:28:44 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.0.117 @192.168.2.2 @192.168.1.115  from 2011-08-17 16:26:18 / Wed Aug 17 16:29:08 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.0.117 @192.168.2.2 @192.168.1.50  from 2011-08-17 16:26:34 / Wed Aug 17 16:29:35 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.127  from 2011-08-17 16:27:12 / Wed Aug 17 16:30:39 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.0.69 @192.168.1.72  from 2011-08-17 16:27:13 / Wed Aug 17 16:30:40 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.0.69 @192.168.1.72  from 2011-08-17 16:27:22 / Wed Aug 17 16:30:55 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.0.69 @192.168.1.72 @192.168.2.4 @192.168.0.80  from 2011-08-17 16:27:22 / Wed Aug 17 16:30:55 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.101  from 2011-08-17 16:28:32 / Wed Aug 17 16:32:54 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.101 @192.168.2.2  from 2011-08-17 16:28:32 / Wed Aug 17 16:32:54 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.101 @192.168.2.2 @192.168.1.124  from 2011-08-17 16:28:46 / Wed Aug 17 16:33:17 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.101 @192.168.2.2 @192.168.1.124 @192.168.1.53  from 2011-08-17 16:28:54 / Wed Aug 17 16:33:31 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.0.98  from 2011-08-17 16:29:27 / Wed Aug 17 16:34:28 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.0.98 @192.168.2.2  from 2011-08-17 16:29:27 / Wed Aug 17 16:34:28 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.0.98 @192.168.2.2 @192.168.2.3 @192.168.1.65  from 2011-08-17 16:29:29 / Wed Aug 17 16:34:31 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.0.98 @192.168.2.2 @192.168.2.3 @192.168.1.65 @192.168.2.4 @192.168.0.71  from 2011-08-17 16:29:30 / Wed Aug 17 16:34:33 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.104  from 2011-08-17 16:30:37 / Wed Aug 17 16:36:26 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.104 @192.168.2.2  from 2011-08-17 16:30:38 / Wed Aug 17 16:36:27 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.1.104  from 2011-08-17 16:30:38 / Wed Aug 17 16:36:27 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.1.104 @192.168.2.2  from 2011-08-17 16:30:39 / Wed Aug 17 16:36:29 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.104 @192.168.2.2 @192.168.2.3 @192.168.1.38  from 2011-08-17 16:30:39 / Wed Aug 17 16:36:30 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.104 @192.168.2.2 @192.168.2.3 @192.168.1.38 @192.168.0.104  from 2011-08-17 16:30:40 / Wed Aug 17 16:36:30 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.1.104 @192.168.2.2 @192.168.2.3 @192.168.1.38  from 2011-08-17 16:30:41 / Wed Aug 17 16:36:31 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.1.104 @192.168.2.2 @192.168.2.3 @192.168.1.38 @192.168.0.104  from 2011-08-17 16:30:41 / Wed Aug 17 16:36:31 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.2: Vehicle crash!@192.168.0.6  from 2011-08-17 16:31:36 / Wed Aug 17 16:38:07 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.3: Vehicle crash!@192.168.0.6 @192.168.2.2  from 2011-08-17 16:31:36 / Wed Aug 17 16:38:07 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.4: Vehicle crash!@192.168.0.6 @192.168.1.23 @192.168.1.10  from 2011-08-17 16:32:09 / Wed Aug 17 16:39:02 2011
+]
+[From 192.168.2.1 Receiv 192.168.2.5: Vehicle crash!@192.168.0.6 @192.168.1.23 @192.168.1.10 @192.168.2.4 @192.168.0.121  from 2011-08-17 16:32:10 / Wed Aug 17 16:39:02 2011
+]

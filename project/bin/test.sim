@@ -1,0 +1,42 @@
+% Created by GrooveNet Hybrid Simulator on 7/29/2011
+
+MODEL="CarListVisual0" TYPE="CarListVisual"
+CAPTION="GrooveNet Widget" DELAY="0.2" HEIGHT="373" WIDTH="476"
+
+MODEL="DjikstraTripModel0" TYPE="DjikstraTripModel"
+FINISH="442 5th Ave, New York, New York" START="164 5th Ave, New York, New York" WAYPOINTS=""
+
+MODEL="DjikstraTripModel1" TYPE="DjikstraTripModel"
+FINISH="442 5th Ave, New York, New York" START="170 5th Ave, New York, New York" WAYPOINTS=""
+
+MODEL="MapVisual0" TYPE="MapVisual"
+CAPTION="GrooveNet Widget" DELAY="0.2" FOLLOW="" HEIGHT="373" START_POS="0, 0" WIDTH="476" ZOOM="4"
+
+MODEL="SimplePhysModel0" TYPE="SimplePhysModel"
+MAXDISTANCE="200" MULTICHANNEL="NO"
+
+MODEL="SimpleLinkModel0" TYPE="SimpleLinkModel"
+
+MODEL="UniformSpeedModel0" TYPE="UniformSpeedModel" DEPENDS="DjikstraTripModel0"
+HIGH="0" LOW="0" MULTILANE="NO" TRIP="DjikstraTripModel0"
+
+MODEL="SimpleCommModel0" TYPE="SimpleCommModel"
+GATEWAY="NO" RBXJITTER="YES" REBROADCAST="YES" REBROADCASTINTERVAL="1"
+
+MODEL="SimModel0" TYPE="SimModel" DEPENDS="SimplePhysModel0;SimpleLinkModel0;DjikstraTripModel0;UniformSpeedModel0;SimpleCommModel0"
+COMM="SimpleCommModel0" DELAY="0.2" DOLOG="YES" ID="192.168.0.1" LINK="SimpleLinkModel0" MOBILITY="UniformSpeedModel0" PHYS="SimplePhysModel0" START="0" TRACKSPEED="NO" TRIP="DjikstraTripModel0"
+
+MODEL="SimplePhysModel1" TYPE="SimplePhysModel"
+MAXDISTANCE="200" MULTICHANNEL="NO"
+
+MODEL="SimpleCommModel1" TYPE="SimpleCommModel"
+GATEWAY="NO" RBXJITTER="YES" REBROADCAST="YES" REBROADCASTINTERVAL="1"
+
+MODEL="SimpleLinkModel1" TYPE="SimpleLinkModel"
+
+MODEL="UniformSpeedModel1" TYPE="UniformSpeedModel" DEPENDS="DjikstraTripModel1"
+HIGH="0" LOW="0" MULTILANE="NO" TRIP="DjikstraTripModel1"
+
+MODEL="SimModel1" TYPE="SimModel" DEPENDS="SimplePhysModel1;SimpleCommModel1;SimpleLinkModel1;DjikstraTripModel1;UniformSpeedModel1"
+COMM="SimpleCommModel1" DELAY="0.2" DOLOG="YES" ID="192.168.0.2" LINK="SimpleLinkModel1" MOBILITY="UniformSpeedModel1" PHYS="SimplePhysModel1" START="0" TRACKSPEED="NO" TRIP="DjikstraTripModel1"
+
